@@ -22,5 +22,4 @@ RUN ./mvnw clean package -DskipTests
 # Expose the port the app runs on (adjust if needed)
 EXPOSE 8080
 
-# Run the application
-CMD ["java", "-jar", "target/learnado-backend-0.0.1-SNAPSHOT.jar"]
+CMD ["java", "-jar", "target/backend-0.0.1-SNAPSHOT.jar"]
