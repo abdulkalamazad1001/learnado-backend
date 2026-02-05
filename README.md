@@ -1,5 +1,7 @@
 # Learnado - Live Learning Education Platform
 
+Deployment Link: https://learnado-backend-uiy5.onrender.com
+
 Learnado is a full-stack live-learning platform combining a Spring Boot Java backend with a Next.js React frontend. It supports role-based authentication, course & batch management, student enrollments, and real-time live lectures using WebSocket signaling for WebRTC-based audio/video sessions.
 
 This README is crafted to help developers and maintainers quickly understand architecture, run the project locally, and integrate with the live-lecture stack. It prioritizes clarity, security, and actionable steps for development and deployment.
